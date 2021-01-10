@@ -1,2 +1,2 @@
-# StudentManagementSystem
-A simple student management system
+# HotelManagementSystem
+A simple hotel management system
